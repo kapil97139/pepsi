@@ -1,0 +1,14 @@
+{
+    "validData": {
+      "usernameKenya": "june14",
+      "passwordKenya": "1234testing",
+      "usernameUganda":"july11",
+      "passwordUganda":"1234testing"
+  
+    },
+    
+    "invalidData": {
+      "username": "kp",
+      "password": "1234testing"
+    }
+  }
